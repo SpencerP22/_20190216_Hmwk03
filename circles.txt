@@ -1,0 +1,7 @@
+Radius: 1.000, Area: 3.142, Perimeter: 6.283 
+Radius: 4.800, Area: 72.382, Perimeter: 30.159 
+Radius: 10.000, Area: 314.159, Perimeter: 62.832 
+Radius: 5.300, Area: 88.247, Perimeter: 33.301 
+Radius: 5.310, Area: 88.581, Perimeter: 33.364 
+Radius: 5.300, Area: 88.251, Perimeter: 33.302 
+Radius: 3.200, Area: 32.170, Perimeter: 20.106 

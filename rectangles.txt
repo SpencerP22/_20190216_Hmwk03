@@ -1,0 +1,15 @@
+Length: 1.000, Width: 2.000, Area: 2.000, Perimeter: 6.000 
+Length: 6.300, Width: 8.200, Area: 51.660, Perimeter: 29.000 
+Length: 4.000, Width: 7.000, Area: 28.000, Perimeter: 22.000 
+Length: 9.700, Width: 10.000, Area: 97.000, Perimeter: 39.400 
+Length: 1.000, Width: 1.000, Area: 1.000, Perimeter: 4.000  (Square)
+Length: 1.000, Width: 1.010, Area: 1.010, Perimeter: 4.020 
+Length: 1.000, Width: 1.001, Area: 1.001, Perimeter: 4.002 
+Length: 1.000, Width: 1.000, Area: 1.000, Perimeter: 4.000  (Square)
+Length: 1.000, Width: 1.000, Area: 1.000, Perimeter: 4.000  (Square)
+Length: 5.500, Width: 5.500, Area: 30.250, Perimeter: 22.000  (Square)
+Length: 5.510, Width: 5.500, Area: 30.305, Perimeter: 22.020 
+Length: 5.501, Width: 5.500, Area: 30.256, Perimeter: 22.002 
+Length: 5.500, Width: 5.500, Area: 30.251, Perimeter: 22.000  (Square)
+Length: 5.500, Width: 5.500, Area: 30.250, Perimeter: 22.000  (Square)
+Length: 5.000, Width: 5.500, Area: 27.500, Perimeter: 21.000 
